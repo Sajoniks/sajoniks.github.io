@@ -24,4 +24,15 @@ On my spare time, I work on my own projects. For example, I have a game under de
 
 Most of other projects are gameplay frameworks for Unreal Engine 4, that are being developed as a part of my game.
 
+I have some public projects:
+
+|-|-|
+|*Unreal Chess*|This is one of my first games made with Unreal Engine that was not scrapped :) <br> This is a chess game. It has Hot Seat and LAN play modes. <br> All assets (excluding music) were made by me. |[https://github.com/Sajoniks/UnrealChess]()|
+|*Smooth Sql*|This is SQLite binding for Unreal Engine 4-5. It contains simple to use custom Blueprint Nodes as like as C++ API|[https://github.com/Sajoniks/SmoothSql]()|
+
+Also non-UE related projects:
+
+|-|-|
+|*Solitaire CPP*|This is source code of my first game made from scratch using C++ and SFML. In order to play, it must be compiled first, sadly|[https://github.com/Sajoniks/SolitaireCPP]()|
+|*Math Functions*|This is my practice implementation various numeric algorithms.|[https://github.com/Sajoniks/Math-Functions]()|
 
